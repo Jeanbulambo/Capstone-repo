@@ -66,8 +66,7 @@ const splis = [{
 
 const cardContainer = document.querySelector('.fs');
 const speakers = () => {
-// eslint-disable-next-line no-plusplus
-  for (let i = 0; i < splis.length; i++) {
+  for (let i = 0; i < splis.length; i += 1) {
     cardContainer.innerHTML += `<div class="speakers">
       <img id="speaker1" class="speak-img" src="${splis[i].imageLink}" alt="${splis[i].title}">
       <div class="speak-element">
