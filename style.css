@@ -553,30 +553,4 @@ h5 {
   .container-child {
     display: none;
   }
-
-  .footer-container-mobile {
-    height: auto;
-    color: rgb(8, 0, 0);
-    background-color: white;
-  }
-
-  .container-child-mobile {
-    display: flex;
-    justify-content: space-between;
-    margin: 15px;
-  }
-
-  .footer-title-mobile {
-    font-size: 0.9rem;
-    width: 50%;
-    margin-top: 50px;
-    font-weight: bold;
-    margin-bottom: 15px;
-  }
-
-  .footertext-mobile {
-    font-size: 0.7rem;
-    margin-top: 50px;
-    margin-bottom: 15px;
-  }
 }

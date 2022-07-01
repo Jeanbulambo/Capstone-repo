@@ -18,7 +18,7 @@ git clone https://github.com/Jeanbulambo/capstone1-repo.git
 ```
 #### - Use the link below to access my webpage
 ```
-https://jeanbulambo.github.io/Portfolio-repo/
+ https://jeanbulambo.github.io/Capstone-repo/
 ```
 #### - Open project directory and open index.html file with your prefered browser
 
